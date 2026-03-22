@@ -9,4 +9,5 @@ Methodology in RThe analysis was conducted using R, employing a rigorous workflo
 - Correlation Analysis: To map the strength and direction of relationships between chemical variables.
 - Hypothesis Testing & ANOVA: To statistically validate differences between wine types and across quality tiers.
 - Multiple Linear Regression: To build a predictive framework that quantifies how changes in chemistry (like acidity or sulfates) impact the final quality score.
+
 By translating laboratory readings into statistical trends, this project provides a data-driven foundation for wine suppliers to optimize production and inventory based on the chemical profiles most favored by trained tasters.
